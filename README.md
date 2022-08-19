@@ -6,7 +6,7 @@ I'll going to make a weather app inspired by the beautiful designs made by [Olia
 
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/clima-demo.gif)
 
-## New Things in Dart and Flutter I will be using👇🏻:
+## New Things in Dart and Flutter I used to build the app👇🏻:
 
 - How to use Dart to perform asynchronous tasks.
 - Understand async and await.
